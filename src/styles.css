@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ContainerLogin {
+  border: 1px grey solid;
+  padding: 6px;
+}
